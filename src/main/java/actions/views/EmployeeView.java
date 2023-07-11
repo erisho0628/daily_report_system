@@ -58,4 +58,3 @@ public class EmployeeView {
     private Integer deleteFlag;
 
 }
-Lesson 17Chapter 6.3
